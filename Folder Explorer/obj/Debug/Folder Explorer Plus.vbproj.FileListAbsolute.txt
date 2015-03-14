@@ -1,0 +1,31 @@
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\bin\Debug\Folder Explorer.exe.manifest
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\bin\Debug\Folder Explorer.application
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\bin\Debug\Folder Explorer.exe
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\bin\Debug\Folder Explorer.pdb
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\bin\Debug\Folder Explorer.xml
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder_Explorer.Form1.resources
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder_Explorer.Resources.resources
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer Plus.vbproj.GenerateResource.Cache
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer.exe.manifest
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer.application
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer.exe
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer.xml
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer.pdb
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer.TrustInfo.xml
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\bin\Debug\Folder Explorer.exe.config
+E:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\bin\Debug\Folder Explorer.exe.config
+E:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer.xml
+E:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer.pdb
+E:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder_Explorer.Form1.resources
+E:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder_Explorer.Resources.resources
+E:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer Plus.vbproj.GenerateResource.Cache
+E:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\bin\Debug\Folder Explorer.exe.manifest
+E:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\bin\Debug\Folder Explorer.application
+E:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\bin\Debug\Folder Explorer.exe
+E:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\bin\Debug\Folder Explorer.pdb
+E:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\bin\Debug\Folder Explorer.xml
+E:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer.TrustInfo.xml
+E:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer.exe.manifest
+E:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer.application
+E:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer.exe

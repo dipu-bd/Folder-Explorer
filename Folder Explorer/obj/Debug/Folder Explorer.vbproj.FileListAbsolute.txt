@@ -1,0 +1,14 @@
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer.exe
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer.xml
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer.pdb
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\bin\Debug\Folder Explorer.exe
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\bin\Debug\Folder Explorer.pdb
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\bin\Debug\Folder Explorer.xml
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder_Explorer.Form1.resources
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder_Explorer.Resources.resources
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer.vbproj.GenerateResource.Cache
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\bin\Debug\Folder Explorer.exe.manifest
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\bin\Debug\Folder Explorer.application
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer.exe.manifest
+D:\Projects\Visual Basic 2008\Folder Explorer\Folder Explorer\obj\Debug\Folder Explorer.application

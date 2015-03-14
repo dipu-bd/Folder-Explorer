@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Folder Explorer.exe" version="1.0.0.1" publicKeyToken="41997cb71e20cca8" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="folder holder.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Folder Explorer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Folder Explorer.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Folder Explorer.exe" size="294400">
+      <assemblyIdentity name="Folder Explorer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Uqi0O00M4d2Vizh917WxGzJVw4g=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="folder holder.ico" size="110993">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>YWWQlum264ot7qQochVfa0/6E8I=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Dipu-PC\Dipu" issuerKeyHash="87d5a89049828025f7ed365cecc0fe898ce59abb" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>IJzuateS3spoMypEoTo9hrxSjXs=</DigestValue></Reference></SignedInfo><SignatureValue>QS3jyjhUhuo15bY88QRMBq2inHbaHTo08gg6QoxYvWA/HlWoqSIJyRNhE+0xpdpXPgqVuROUxfQ/6Ysta9OuNghD8ho4pZ1/sm0CdMrZfH7bbV//F+4PI+YNIEkFNjKDUfaz1kJlmqJC3VtTnt3V7TzWI02wN4M8JZYXWpGrP4c=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>toZJ1bHluCt7cBjjE5G1+x0vzY6thKOKcCEzzGqD+gblmTPU5Se2foQse8jVLwZ0+e9XnaEXLQk+0qzUkglcTyZEckZoxcGnMbeXTfaLW4aRkZXzP9Cgz7I/iS+3spZCS7P/JLPN6l+yO0GyRoAuakIBZrf+8f5ryOnrzJc+7/s=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="7b8d52bc863d3aa1442a3368cade92d76aee9c20" Description="" Url=""><as:assemblyIdentity name="Folder Explorer.exe" version="1.0.0.1" publicKeyToken="41997cb71e20cca8" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Dipu-PC\Dipu</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>UoJgqVbNGucz5T8SB3tulpQK/XU=</DigestValue></Reference></SignedInfo><SignatureValue>ryP0XQGWSej8GGkyKzIZtNN39sN/NwdIZGwf1yXDE0k18zEtlmSmsqJVWVah/q1OqqSTBp59bTEszzpPAqTu34b9X7EcRBOceTS7naycQLyI9QmUuTAL1j8nI/l9K5ykW0mtBZorTCIXS3/WS9bk/IaDAE8btjPaQNlkDVHjBes=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>toZJ1bHluCt7cBjjE5G1+x0vzY6thKOKcCEzzGqD+gblmTPU5Se2foQse8jVLwZ0+e9XnaEXLQk+0qzUkglcTyZEckZoxcGnMbeXTfaLW4aRkZXzP9Cgz7I/iS+3spZCS7P/JLPN6l+yO0GyRoAuakIBZrf+8f5ryOnrzJc+7/s=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQGJgDfX2BX6JN+CGh7/BllDANBgkqhkiG9w0BAQUFADAjMSEwHwYDVQQDHhgARABpAHAAdQAtAFAAQwBcAEQAaQBwAHUwHhcNMTExMTA3MTQ0NTE0WhcNMTIxMTA2MjA0NTE0WjAjMSEwHwYDVQQDHhgARABpAHAAdQAtAFAAQwBcAEQAaQBwAHUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALaGSdWx5bgre3AY4xORtfsdL82OrYSjinAhM8xqg/oG5Zkz1OUntn6ELHvI1S8GdPnvV52hFy0JPtKs1JIJXE8mRHJGaMXBpzG3l032i1uGkZGV8z/QoM+yP4kvt7KWQkuz/ySzzepfsjtBskaALmpCAWa3/vH+a8jp68yXPu/7AgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAky3Oct7oFb7p+iPaDSGPFRDrNBuG9eRDz0YcZcpy8sMpe08eWYknMPuSXxxlaGUraD/ytXad2+EQbsSAzpWobNGBDKUK2L0Mt3LCiqnHo0vU++vYeWk5dU/3XO7eBSxLCHZgV3KWSDDRRW/unbqpPHoePhtUbLiHowj37DGWFg8=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
